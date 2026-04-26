@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <!-- placeholder logo. 정식 로고로 교체 예정. -->
+  <rect width="64" height="64" fill="none"/>
+  <text x="50%" y="55%" text-anchor="middle" font-size="10" font-family="sans-serif">catguard</text>
+</svg>
