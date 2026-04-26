@@ -54,7 +54,7 @@
 | 🐾 **OpenClaw Workspace** | macOS 로컬 AI 자동화 — Docker + Ollama + OpenClaw 한 줄 설치 (8시간 강의 교재 포함) | [@GoGoComputer/openclaw-workspace](https://github.com/GoGoComputer/openclaw-workspace) | [`openclaw-workspace`](https://github.com/catguard-team/openclaw-workspace) |
 | ⚛️ **React · Flask AI Stack** | 프로덕션 패턴 — React · Python · Flask · MySQL · Nginx · LLM · WebRTC · SSE · OAuth2 · AWS | [@GoGoComputer/react-flask-ai-stack](https://github.com/GoGoComputer/react-flask-ai-stack) | [`react-flask-ai-stack`](https://github.com/catguard-team/react-flask-ai-stack) |
 
-본인 강의·자료를 자경단에 공유하고 싶으시면 [share-request](https://github.com/catguard-team/.github/issues/new?template=share-request.md). 거절 사유는 [`MIRROR_SETUP`](https://github.com/catguard-team/.github/blob/main/MIRROR_SETUP.md) 참조.
+본인 강의·자료를 자경단에 공유하고 싶으시면 [share-request](https://github.com/catguard-team/.github/issues/new?template=share-request.md). 셋업은 [`MIRROR_SETUP`](https://github.com/catguard-team/.github/blob/main/MIRROR_SETUP.md), 동작 방식·보존 정책은 [`MIRROR_FAQ`](https://github.com/catguard-team/.github/blob/main/MIRROR_FAQ.md) 참조.
 
 ---
 
