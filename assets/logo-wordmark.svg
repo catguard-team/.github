@@ -1,0 +1,11 @@
+<!--
+  자경단 워드마크 (placeholder) — 텍스트 단독.
+  TODO: 정식 타이포그래피로 교체.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 64" width="320" height="64" role="img" aria-label="고양이 자경단">
+  <title>고양이 자경단</title>
+  <text x="0" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', sans-serif"
+        font-size="38" font-weight="800" fill="#2a2a2a" letter-spacing="-1.2">고양이 자경단</text>
+  <text x="245" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', sans-serif"
+        font-size="38" font-weight="800" fill="#6b8e4e" letter-spacing="-1.2">.</text>
+</svg>

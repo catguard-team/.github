@@ -1,0 +1,15 @@
+<!--
+  자경단 미니마크 (placeholder) — 아바타·favicon용 단일 발자국.
+  TODO: 정식 일러스트로 교체.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="자경단 미니마크">
+  <title>자경단 미니마크</title>
+  <rect width="64" height="64" rx="12" fill="#f5f1ea"/>
+  <g fill="#2a2a2a">
+    <ellipse cx="32" cy="40" rx="14" ry="10"/>
+    <ellipse cx="18" cy="22" rx="5" ry="6"/>
+    <ellipse cx="28" cy="14" rx="5" ry="6"/>
+    <ellipse cx="36" cy="14" rx="5" ry="6"/>
+    <ellipse cx="46" cy="22" rx="5" ry="6"/>
+  </g>
+</svg>

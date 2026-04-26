@@ -1,0 +1,33 @@
+<!--
+  자경단 메인 로고 (placeholder)
+  발자국 + "자경단" 워드. 따뜻한 회색/베이지 톤.
+  TODO: 일러스트레이터가 정식 로고로 교체.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" width="320" height="120" role="img" aria-label="고양이 자경단">
+  <title>고양이 자경단</title>
+  <defs>
+    <style>
+      .ink { fill: #2a2a2a; }
+      .warm { fill: #8b7355; }
+      .pi { fill: #6b8e4e; }
+    </style>
+  </defs>
+
+  <!-- paw cluster: 1 main pad + 4 toe pads -->
+  <g transform="translate(20,30)">
+    <ellipse class="ink" cx="32" cy="40" rx="22" ry="16"/>
+    <ellipse class="ink" cx="14" cy="20" rx="7" ry="9"/>
+    <ellipse class="ink" cx="28" cy="10" rx="7" ry="9"/>
+    <ellipse class="ink" cx="42" cy="10" rx="7" ry="9"/>
+    <ellipse class="ink" cx="56" cy="20" rx="7" ry="9"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="110" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', sans-serif"
+        font-size="34" font-weight="700" class="ink" letter-spacing="-1">고양이 자경단</text>
+  <text x="110" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', sans-serif"
+        font-size="13" class="warm" letter-spacing="0">기술, 이제 모두의 골목이다</text>
+
+  <!-- corner accent -->
+  <circle class="pi" cx="305" cy="15" r="4"/>
+</svg>
