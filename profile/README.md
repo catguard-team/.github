@@ -1,13 +1,16 @@
 <!-- 이 README는 https://github.com/catguard-team 의 메인 화면입니다. -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/catguard-team/.github/main/assets/logo-main.svg" alt="고양이 자경단" width="320">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/catguard-team/.github/main/assets/logo-main-dark.svg">
+    <img src="https://raw.githubusercontent.com/catguard-team/.github/main/assets/logo-main.svg" alt="고양이 자경단" width="320">
+  </picture>
 </p>
 
 <p align="center"><strong>기술, 이제 모두의 골목이다</strong></p>
 
 <p align="center">
-  <a href="https://github.com/catguard-team/manifesto"><img src="https://catguard-team.github.io/badges/verified.svg" alt="자경단 검증"></a>
+  <a href="https://github.com/catguard-team/manifesto"><img src="https://img.shields.io/badge/%EC%9E%90%EA%B2%BD%EB%8B%A8-VERIFIED-8b7355?style=flat" alt="자경단 검증"></a>
   <a href="https://discord.gg/Dp4pKwns2Y"><img src="https://img.shields.io/badge/Discord-Be%20More%20Dev%20Forum-5865F2?logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://github.com/catguard-team/manifesto/blob/main/GANGNYANG.md"><img src="https://img.shields.io/badge/%ED%96%89%EB%8F%99%EA%B0%95%EB%83%A5-10%EC%A1%B0-8b7355" alt="행동강냥 10조"></a>
 </p>

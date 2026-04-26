@@ -1,0 +1,32 @@
+<!--
+  자경단 메인 로고 — 다크 테마용 (placeholder)
+  잉크를 #f5f1ea로 반전.
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" width="320" height="120" role="img" aria-label="고양이 자경단">
+  <title>고양이 자경단</title>
+  <defs>
+    <style>
+      .ink { fill: #f5f1ea; }
+      .warm { fill: #c9b896; }
+      .pi { fill: #8fb368; }
+    </style>
+  </defs>
+
+  <!-- paw cluster -->
+  <g transform="translate(20,30)">
+    <ellipse class="ink" cx="32" cy="40" rx="22" ry="16"/>
+    <ellipse class="ink" cx="14" cy="20" rx="7" ry="9"/>
+    <ellipse class="ink" cx="28" cy="10" rx="7" ry="9"/>
+    <ellipse class="ink" cx="42" cy="10" rx="7" ry="9"/>
+    <ellipse class="ink" cx="56" cy="20" rx="7" ry="9"/>
+  </g>
+
+  <!-- wordmark -->
+  <text x="110" y="55" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', sans-serif"
+        font-size="34" font-weight="700" class="ink" letter-spacing="-1">고양이 자경단</text>
+  <text x="110" y="82" font-family="-apple-system, BlinkMacSystemFont, 'Apple SD Gothic Neo', sans-serif"
+        font-size="13" class="warm" letter-spacing="0">기술, 이제 모두의 골목이다</text>
+
+  <!-- corner accent -->
+  <circle class="pi" cx="305" cy="15" r="4"/>
+</svg>
