@@ -1,0 +1,26 @@
+name: 자경단 미러 동기화
+
+# 자경단원의 원본 레포 → 자경단 org 미러로 자동 동기화.
+# 6시간마다 자동 실행 + 필요 시 수동 실행.
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+
+jobs:
+  sync:
+    name: 원본 → 자경단 미러
+    runs-on: ubuntu-latest
+    steps:
+      - name: git-sync
+        uses: wei/git-sync@v3
+        with:
+          # ↓↓↓ 미러 셋업 시 두 줄만 본인 정보로 바꾸세요 ↓↓↓
+          source_repo: "https://github.com/원작자/원본레포.git"
+          destination_repo: "git@github.com:catguard-team/미러레포.git"
+          # ↑↑↑ 여기까지 ↑↑↑
+
+          source_branch: "main"
+          destination_branch: "main"
+          ssh_private_key: ${{ secrets.MIRROR_DEPLOY_KEY }}

@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 🆘 잘 모르겠어요 — 디스코드에서 먼저 물어보기
+    url: https://discord.gg/Dp4pKwns2Y
+    about: 자료 공유 절차가 헷갈리거나 막혔으면 #도와줘 채널에 한 줄 던지세요. issue보다 빠릅니다.
+  - name: 📜 자경단 운영 규칙 보기
+    url: https://github.com/catguard-team/manifesto/blob/main/OPERATIONS.md
+    about: 자료 공유 4가지 권리, 5단계 절차, 거절·이의제기 절차가 정리되어 있습니다.
