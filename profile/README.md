@@ -42,6 +42,22 @@
 
 ---
 
+## 오픈소스 지식공유 강의 (자경단 미러)
+
+자경단원이 본인 레포를 자경단 영역으로 미러링한 강의 자료. 원본은 자경단원 본인 소유, 자경단은 보존·검증만 합니다 ([권리 모델](https://github.com/catguard-team/manifesto/blob/main/OPERATIONS.md#11)).
+
+> ⚠️ 미러는 자동 동기화됩니다. 코드 수정·이슈는 **원본 레포**로.
+
+| 강의 | 주제 | 원본 (자경단원) | 자경단 미러 |
+|------|------|------|------|
+| 🇰🇷 **Korean Sovereign AI** | Apple Silicon용 한국 주권형 로컬 AI 런처 | [@GoGoComputer/korea-sovereign-ai](https://github.com/GoGoComputer/korea-sovereign-ai) | [`korea-sovereign-ai`](https://github.com/catguard-team/korea-sovereign-ai) |
+| 🐾 **OpenClaw Workspace** | macOS 로컬 AI 자동화 — Docker + Ollama + OpenClaw 한 줄 설치 (8시간 강의 교재 포함) | [@GoGoComputer/openclaw-workspace](https://github.com/GoGoComputer/openclaw-workspace) | [`openclaw-workspace`](https://github.com/catguard-team/openclaw-workspace) |
+| ⚛️ **React · Flask AI Stack** | 프로덕션 패턴 — React · Python · Flask · MySQL · Nginx · LLM · WebRTC · SSE · OAuth2 · AWS | [@GoGoComputer/react-flask-ai-stack](https://github.com/GoGoComputer/react-flask-ai-stack) | [`react-flask-ai-stack`](https://github.com/catguard-team/react-flask-ai-stack) |
+
+본인 강의·자료를 자경단에 공유하고 싶으시면 [share-request](https://github.com/catguard-team/.github/issues/new?template=share-request.md). 거절 사유는 [`MIRROR_SETUP`](https://github.com/catguard-team/.github/blob/main/MIRROR_SETUP.md) 참조.
+
+---
+
 ## 행동강(綱)냥(領) — 짧은 버전
 
 1. **영역 선포** · 외부 권위에 기대지 않는다
