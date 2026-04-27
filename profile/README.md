@@ -103,6 +103,22 @@ A. 네. 문서 정리, 어르신 통역, 디자인, 영상, 단순 손 보태기
 
 ---
 
+## 🧭 자경단 문서 지도
+
+자경단의 모든 문서·미작성 챕터·작성자 모집 현황을 한 페이지에서:
+
+**👉 [`DOCS-MAP.md`](https://github.com/catguard-team/.github/blob/main/DOCS-MAP.md)**
+
+빠른 점프:
+- 📜 [`manifesto`](https://github.com/catguard-team/manifesto) — 강령·안전·운영
+- 🐾 [`saenoyangi-handbook`](https://github.com/catguard-team/saenoyangi-handbook) — 새끼고양이 학습 (4트랙)
+- 🍯 [`kkulzam-spot`](https://github.com/catguard-team/kkulzam-spot) — 꿀잠 스팟
+- 🐭 [`jwidori`](https://github.com/catguard-team/jwidori) — 첫 쥐돌이
+- 📡 [`nyangbook`](https://github.com/catguard-team/nyangbook) — 라즈베리파이 보급
+- 🛠 [`AGENTS.md`](https://github.com/catguard-team/.github/blob/main/AGENTS.md) — 합류 가이드 (사람·AI 공통)
+
+---
+
 <p align="center">
   <em>귀찮지만 우리가 한다.</em><br><br>
   <strong>냐-옹.</strong>
