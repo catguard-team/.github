@@ -30,7 +30,7 @@
 > 키오스크 앞에서 헤매시는 어르신, 카카오톡 설치 중 막히신 옆집, 학교에서 코딩 첫걸음을 떼는 새끼고양이.
 > 그 골목들이 저희 영역입니다.
 
-자세한 사상은 [`manifesto/MANIFESTO.md`](https://github.com/catguard-team/manifesto/blob/main/MANIFESTO.md)에서 풀어 드리고 있어요.
+더 깊은 이야기는 [`manifesto/MANIFESTO.md`](https://github.com/catguard-team/manifesto/blob/main/MANIFESTO.md)에서 풀어 드리고 있어요.
 
 ---
 
