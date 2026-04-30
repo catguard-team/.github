@@ -1,6 +1,6 @@
 # 자경단 문서 지도 (Docs Map)
 
-> 자경단 모든 문서를 한 페이지에서 점프. 어느 문서에서든 "관련 문서" 섹션으로 여기로 돌아올 수 있습니다.
+> 안녕하세요. 자경단 모든 문서를 한 페이지에서 점프하실 수 있는 페이지입니다. 어느 문서에서든 "관련 문서" 섹션을 통해 여기로 돌아오실 수 있습니다.
 >
 > ✅ 완성 · 🟡 부분 완성 · 🚧 미작성 (작성자 모집 중)
 
@@ -8,9 +8,9 @@
 
 ## 🏠 입구
 
-- [`catguard-team` org 홈](https://github.com/catguard-team) — 외부 첫 화면
-- [`AGENTS.md`](https://github.com/catguard-team/.github/blob/main/AGENTS.md) — 에이전트·신참 자경단원 합류 가이드
-- [`TASKS.md`](https://github.com/catguard-team/.github/blob/main/TASKS.md) — 작업 큐 (단장 로컬 트래킹)
+- [`catguard-team` org 홈](https://github.com/catguard-team) — 외부 첫 화면입니다
+- [`AGENTS.md`](https://github.com/catguard-team/.github/blob/main/AGENTS.md) — 에이전트·신참 자경단원 합류 가이드입니다
+- [`TASKS.md`](https://github.com/catguard-team/.github/blob/main/TASKS.md) — 작업 큐 (단장 로컬 트래킹용입니다)
 
 ---
 
@@ -160,17 +160,17 @@
 
 ---
 
-## 작성하고 싶으면
+## 작성하고 싶으시면
 
-1. 위 표에서 🚧 옆 **📝 claim** 클릭 → 새 issue
-2. issue에 "제가 작성하겠습니다 + 예상 마감" 한 줄
-3. PR 올리면 끝
+1. 위 표에서 🚧 옆 **📝 claim** 을 클릭하시면 새 issue가 열립니다
+2. issue에 "제가 작성하겠습니다 + 예상 마감"을 한 줄 적어주세요
+3. PR을 올려주시면 됩니다
 
 > [!IMPORTANT]
-> 미성년자·결정 보조 필요 학습자가 새끼고양이로 등장하는 챕터 작성 시 [`SAFETY-NOTES.md`](https://github.com/catguard-team/saenoyangi-handbook/blob/main/SAFETY-NOTES.md) 무조건 우선. GitHub 처음이면 [`GITHUB-GUIDE.md`](https://github.com/catguard-team/saenoyangi-handbook/blob/main/GITHUB-GUIDE.md) 먼저.
+> 미성년자·결정 보조가 필요한 학습자가 새끼고양이로 등장하는 챕터를 작성하실 때는 [`SAFETY-NOTES.md`](https://github.com/catguard-team/saenoyangi-handbook/blob/main/SAFETY-NOTES.md)가 무조건 우선합니다. GitHub이 처음이시면 [`GITHUB-GUIDE.md`](https://github.com/catguard-team/saenoyangi-handbook/blob/main/GITHUB-GUIDE.md)를 먼저 봐주세요.
 
 ---
 
 <div align="center">
-  <sub>지도가 있으면 길을 잃지 않는다 · <strong>냐-옹.</strong></sub>
+  <sub>지도가 있으면 길을 잃지 않습니다 · <strong>고맙습니다. 냐-옹.</strong></sub>
 </div>
