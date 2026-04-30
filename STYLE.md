@@ -157,7 +157,7 @@ key: value
 </div>
 ```
 
-운영 가이드(MIRROR_FAQ, LEAK_CLEANUP 등) 끝맺음 변형:
+운영 가이드(LEAK_CLEANUP, RECRUITMENT 등) 끝맺음 변형:
 
 - `누출은 사냥감이다 · 냐-옹.`
 - `귀찮지만 우리가 한다 · 냐-옹.`
@@ -168,7 +168,7 @@ key: value
 
 1. 모든 레포 README (외부 첫 인상)
 2. `manifesto/MANIFESTO.md`, `GANGNYANG.md` (정체성)
-3. 운영 가이드 (`MIRROR_FAQ`, `MIRROR_SETUP`, `LEAK_CLEANUP`, `RECRUITMENT`, `PILOT_SELECTION`)
+3. 운영 가이드 (`LEAK_CLEANUP`, `RECRUITMENT`, `PILOT_SELECTION`)
 4. 트랙별 핸드북 챕터 (작성 시점에)
 
 ---

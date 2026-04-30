@@ -42,19 +42,17 @@
 
 ---
 
-## 오픈소스 지식공유 강의 (자경단 미러)
+## 자경단원 강의·자료 (링크 등재)
 
-자경단원이 본인 레포를 자경단 영역으로 미러링한 강의 자료. 원본은 자경단원 본인 소유, 자경단은 보존·검증만 합니다 ([권리 모델](https://github.com/catguard-team/manifesto/blob/main/OPERATIONS.md#11)).
+자경단은 자체 레포 외에는 **사본을 두지 않습니다**. 다른 사람 레포는 모으는 역할만 — 링크로만 등재합니다. 코드·이슈·라이선스는 원작자 영역.
 
-> ⚠️ 미러는 자동 동기화됩니다. 코드 수정·이슈는 **원본 레포**로.
+| 강의 | 주제 | 원작자 레포 |
+|------|------|------|
+| 🇰🇷 **Korean Sovereign AI** | Apple Silicon용 한국 주권형 로컬 AI 런처 | [@GoGoComputer/korea-sovereign-ai](https://github.com/GoGoComputer/korea-sovereign-ai) |
+| 🐾 **OpenClaw Workspace** | macOS 로컬 AI 자동화 — Docker + Ollama + OpenClaw 한 줄 설치 (8시간 강의 교재 포함) | [@GoGoComputer/openclaw-workspace](https://github.com/GoGoComputer/openclaw-workspace) |
+| ⚛️ **React · Flask AI Stack** | 프로덕션 패턴 — React · Python · Flask · MySQL · Nginx · LLM · WebRTC · SSE · OAuth2 · AWS | [@GoGoComputer/react-flask-ai-stack](https://github.com/GoGoComputer/react-flask-ai-stack) |
 
-| 강의 | 주제 | 원본 (자경단원) | 자경단 미러 |
-|------|------|------|------|
-| 🇰🇷 **Korean Sovereign AI** | Apple Silicon용 한국 주권형 로컬 AI 런처 | [@GoGoComputer/korea-sovereign-ai](https://github.com/GoGoComputer/korea-sovereign-ai) | [`korea-sovereign-ai`](https://github.com/catguard-team/korea-sovereign-ai) |
-| 🐾 **OpenClaw Workspace** | macOS 로컬 AI 자동화 — Docker + Ollama + OpenClaw 한 줄 설치 (8시간 강의 교재 포함) | [@GoGoComputer/openclaw-workspace](https://github.com/GoGoComputer/openclaw-workspace) | [`openclaw-workspace`](https://github.com/catguard-team/openclaw-workspace) |
-| ⚛️ **React · Flask AI Stack** | 프로덕션 패턴 — React · Python · Flask · MySQL · Nginx · LLM · WebRTC · SSE · OAuth2 · AWS | [@GoGoComputer/react-flask-ai-stack](https://github.com/GoGoComputer/react-flask-ai-stack) | [`react-flask-ai-stack`](https://github.com/catguard-team/react-flask-ai-stack) |
-
-본인 강의·자료를 자경단에 공유하고 싶으시면 [share-request](https://github.com/catguard-team/.github/issues/new?template=share-request.md). 셋업은 [`MIRROR_SETUP`](https://github.com/catguard-team/.github/blob/main/MIRROR_SETUP.md), 동작 방식·보존 정책은 [`MIRROR_FAQ`](https://github.com/catguard-team/.github/blob/main/MIRROR_FAQ.md) 참조.
+본인 강의·자료를 자경단 골목에 등재하고 싶으시면 [share-request](https://github.com/catguard-team/.github/issues/new?template=share-request.md). 절차는 [`OPERATIONS §11`](https://github.com/catguard-team/manifesto/blob/main/OPERATIONS.md#11-자료-공유-절차-링크-등재).
 
 ---
 

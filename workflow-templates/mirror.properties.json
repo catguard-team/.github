@@ -1,6 +1,0 @@
-{
-  "name": "자경단 미러 동기화",
-  "description": "자경단원의 원본 레포를 catguard-team org로 6시간마다 자동 미러링.",
-  "iconName": "octicon mirror",
-  "categories": ["Cat Vigilante", "Automation"]
-}

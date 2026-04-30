@@ -131,8 +131,6 @@
 |:---:|------|------|
 | ✅ | [`profile/README.md`](https://github.com/catguard-team/.github/blob/main/profile/README.md) | org 메인 페이지 |
 | ✅ | [`STYLE.md`](https://github.com/catguard-team/.github/blob/main/STYLE.md) | 문서 스타일 가이드 |
-| ✅ | [`MIRROR_SETUP.md`](https://github.com/catguard-team/.github/blob/main/MIRROR_SETUP.md) | 미러 셋업 (PAT) |
-| ✅ | [`MIRROR_FAQ.md`](https://github.com/catguard-team/.github/blob/main/MIRROR_FAQ.md) | 동기화·보존 FAQ |
 | ✅ | [`RECRUITMENT.md`](https://github.com/catguard-team/.github/blob/main/RECRUITMENT.md) | 모집 공고 4채널 |
 | ✅ | [`PILOT_SELECTION.md`](https://github.com/catguard-team/.github/blob/main/PILOT_SELECTION.md) | 새끼고양이 v1 선정 |
 | ✅ | [`bot/`](https://github.com/catguard-team/.github/tree/main/bot) | 디스코드 봇 v1 (스캐폴드) |
@@ -140,13 +138,15 @@
 
 ---
 
-## 📚 강의 미러
+## 📚 자경단원 강의·자료 (링크 등재)
 
-| 상태 | 미러 | 원본 |
-|:---:|------|------|
-| ✅ | [`korea-sovereign-ai`](https://github.com/catguard-team/korea-sovereign-ai) | [@GoGoComputer](https://github.com/GoGoComputer/korea-sovereign-ai) |
-| ✅ | [`openclaw-workspace`](https://github.com/catguard-team/openclaw-workspace) | [@GoGoComputer](https://github.com/GoGoComputer/openclaw-workspace) |
-| ✅ | [`react-flask-ai-stack`](https://github.com/catguard-team/react-flask-ai-stack) | [@GoGoComputer](https://github.com/GoGoComputer/react-flask-ai-stack) |
+자경단은 사본을 두지 않습니다. 인덱스에서 원작자 레포로 직접 링크. 등재 절차: [`OPERATIONS §11`](https://github.com/catguard-team/manifesto/blob/main/OPERATIONS.md#11-자료-공유-절차-링크-등재).
+
+| 강의 | 원작자 레포 |
+|------|------|
+| 🇰🇷 Korean Sovereign AI | [@GoGoComputer/korea-sovereign-ai](https://github.com/GoGoComputer/korea-sovereign-ai) |
+| 🐾 OpenClaw Workspace | [@GoGoComputer/openclaw-workspace](https://github.com/GoGoComputer/openclaw-workspace) |
+| ⚛️ React · Flask AI Stack | [@GoGoComputer/react-flask-ai-stack](https://github.com/GoGoComputer/react-flask-ai-stack) |
 
 ---
 
