@@ -54,6 +54,7 @@
 | 강의 | 주제 | 원작자 레포 |
 |------|------|------|
 | 🇰🇷 **Korean Sovereign AI** | Apple Silicon용 한국 주권형 로컬 AI 런처 | [@GoGoComputer/korea-sovereign-ai](https://github.com/GoGoComputer/korea-sovereign-ai) |
+| 📘 **고양이 자경단 코스** | MLOps 언어 커리큘럼 기반 자경단원 강의·학습 자료 | [@GoGoComputer/mlops-language-curriculum](https://github.com/GoGoComputer/mlops-language-curriculum) |
 | 🐾 **OpenClaw Workspace** | macOS 로컬 AI 자동화 — Docker + Ollama + OpenClaw 한 줄 설치 (8시간 강의 교재 포함) | [@GoGoComputer/openclaw-workspace](https://github.com/GoGoComputer/openclaw-workspace) |
 | ⚛️ **React · Flask AI Stack** | 프로덕션 패턴 — React · Python · Flask · MySQL · Nginx · LLM · WebRTC · SSE · OAuth2 · AWS | [@GoGoComputer/react-flask-ai-stack](https://github.com/GoGoComputer/react-flask-ai-stack) |
 
