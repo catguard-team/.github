@@ -55,6 +55,7 @@
 |------|------|------|
 | 🇰🇷 **Korean Sovereign AI** | Apple Silicon용 한국 주권형 로컬 AI 런처 | [@GoGoComputer/korea-sovereign-ai](https://github.com/GoGoComputer/korea-sovereign-ai) |
 | 📘 **MLOps Chinese Curriculum** | 중국어 실력 없이도 DeepSeek · Qwen · Zhihu · CSDN 기술 문서를 읽는 4개월 커리큘럼 (읽기·쓰기 특화, 회화 제외) | [@GoGoComputer/mlops-language-curriculum](https://github.com/GoGoComputer/mlops-language-curriculum) |
+| 🧠 **Fundamentals of Artificial Intelligence** | 머신러닝 · 딥러닝 · 신경망 기초와 Python · PyTorch · scikit-learn 실습을 담은 인공지능 기초 코스 | [@GoGoComputer/Fundamentals-of-Artificial-Intelligence](https://github.com/GoGoComputer/Fundamentals-of-Artificial-Intelligence) |
 | 🐾 **OpenClaw Workspace** | macOS 로컬 AI 자동화 — Docker + Ollama + OpenClaw 한 줄 설치 (8시간 강의 교재 포함) | [@GoGoComputer/openclaw-workspace](https://github.com/GoGoComputer/openclaw-workspace) |
 | ⚛️ **React · Flask AI Stack** | 프로덕션 패턴 — React · Python · Flask · MySQL · Nginx · LLM · WebRTC · SSE · OAuth2 · AWS | [@GoGoComputer/react-flask-ai-stack](https://github.com/GoGoComputer/react-flask-ai-stack) |
 
